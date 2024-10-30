@@ -1,0 +1,1617 @@
+# Copyright (C) 2018 Mirrorgrid
+# This file is distributed under the GPL3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mirrorgrid Demo Importer 1.0.0\n"
+"Report-Msgid-Bugs-To: mirrorgridofficial@gmail.com\n"
+"POT-Creation-Date: 2018-06-27 11:00:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: includes/admin/classmirrorgridadmin.php:36
+#: svn-production/tags/1.1.0/mirrorgrid-demo-importer.php:29
+#: svn-production/tags/1.1.1/mirrorgrid-demo-importer.php:28
+#: svn-production/tags/1.2.0/includes/admin/classmirrorgridadmin.php:36
+#: svn-production/tags/1.2.1/includes/admin/classmirrorgridadmin.php:36
+#: svn-production/tags/1.2.2/includes/admin/classmirrorgridadmin.php:36
+#: svn-production/tags/1.2.3/includes/admin/classmirrorgridadmin.php:36
+#: svn-production/tags/1.2.4/includes/admin/classmirrorgridadmin.php:36
+#: svn-production/trunk/includes/admin/classmirrorgridadmin.php:36
+msgid ""
+"The %2$sMirrorgrid Demo Importer%3$s plugin requires %2$sPHP 5.3.2+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the "
+"PHP version of your site to at least PHP 5.3.2.%4$s Your current version of "
+"PHP: %2$s%1$s%3$s"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:73
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:71
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:73
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:73
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:73
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:73
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:73
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:73
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:73
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:73
+msgid "\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:177
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:177
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:177
+msgid "URL for %s%s%s file is not defined!"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:199
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:199
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:199
+msgid ""
+"An error occurred while fetching %s%s%s file from the server!%sReason: %s - "
+"%s."
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:240 includes/classmirrorgridhelpers.php:285
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:239
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:283
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:240
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:285
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:240
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:285
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:240
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:285
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:240
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:285
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:240
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:285
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:240
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:285
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:240
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:285
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:240
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:285
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:321
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:318
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:321
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:321
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:321
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:321
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:321
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:321
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:321
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:321
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:345
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:342
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:345
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:345
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:345
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:345
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:345
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:345
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:345
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:345
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:356
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:356
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:356
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:356
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:356
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:356
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:356
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:356
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:356
+msgid "Mirrorgrid Demo Import"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:357
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:354
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:357
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:357
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:357
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:357
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:357
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:357
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:357
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:357
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:369
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:366
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:369
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:369
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:369
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:369
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:369
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:369
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:369
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:369
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:377
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:374
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:377
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:377
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:377
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:377
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:377
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:377
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:377
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:377
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:444
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:444
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:444
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:444
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:444
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:444
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:444
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:444
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:444
+msgid "Mirrorgrid Demo Import - "
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:481
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:475
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:481
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:481
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:481
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:481
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:481
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:481
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:481
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:481
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import "
+"demo data.%s"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:518
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:511
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:518
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:518
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:518
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:518
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:518
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:518
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:518
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:518
+msgid ""
+"Please upload XML file for content import. If you want to import widgets or "
+"customizer settings only, please use Widget Importer & Exporter or the "
+"Customizer Export/Import plugin."
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:520 includes/classmirrorgridhelpers.php:541
+#: includes/classmirrorgridhelpers.php:559 includes/classmirrorgridhelpers.php:567
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:513
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:535
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:554
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:562
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:520
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:541
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:559
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:567
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:520
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:541
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:559
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:567
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:520
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:541
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:559
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:567
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:520
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:541
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:559
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:567
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:520
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:541
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:559
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:567
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:520
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:541
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:559
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:567
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:520
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:541
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:559
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:567
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:520
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:541
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:559
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:567
+msgid "Upload files"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:537
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:531
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:537
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:537
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:537
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:537
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:537
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:537
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:537
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:537
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:555
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:550
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:555
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:555
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:555
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:555
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:555
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:555
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:555
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:555
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:565
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:560
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:565
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:565
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:565
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:565
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:565
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:565
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:565
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:565
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:583
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:578
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:583
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:583
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:583
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:583
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:583
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:583
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:583
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:583
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:582
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:587
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:587
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = "
+"%4$s%1$sCustomizer file = %5$s"
+msgstr ""
+
+#: includes/classmirrorgridhelpers.php:591 includes/classmirrorgridhelpers.php:592
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:586
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:587
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:591
+#: svn-production/tags/1.1.0/inc/classmirrorgridhelpers.php:592
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:591
+#: svn-production/tags/1.1.1/inc/classmirrorgridhelpers.php:592
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:591
+#: svn-production/tags/1.2.0/includes/classmirrorgridhelpers.php:592
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:591
+#: svn-production/tags/1.2.1/includes/classmirrorgridhelpers.php:592
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:591
+#: svn-production/tags/1.2.2/includes/classmirrorgridhelpers.php:592
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:591
+#: svn-production/tags/1.2.3/includes/classmirrorgridhelpers.php:592
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:591
+#: svn-production/tags/1.2.4/includes/classmirrorgridhelpers.php:592
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:591
+#: svn-production/trunk/includes/classmirrorgridhelpers.php:592
+msgid "not defined!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mirrorgrid Demo Importer"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:61 includes/classmirrorgridmain.php:285
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:84
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:238
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:86
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:273
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:86
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:273
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:61
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:287
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:61
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:287
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:61
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:285
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:61
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:285
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:61
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:285
+#: svn-production/trunk/includes/classmirrorgridmain.php:61
+#: svn-production/trunk/includes/classmirrorgridmain.php:285
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:81
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:101
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:106
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:106
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:81
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:81
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:81
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:81
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:81
+#: svn-production/trunk/includes/classmirrorgridmain.php:81
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: includes/classmirrorgridmain.php:95
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:113
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:120
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:120
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:95
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:95
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:95
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:95
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:95
+#: svn-production/trunk/includes/classmirrorgridmain.php:95
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you "
+"might experience server timeout errors.%s"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:112
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:128
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:137
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:137
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:112
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:112
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:112
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:112
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:112
+#: svn-production/trunk/includes/classmirrorgridmain.php:112
+msgid ""
+"Quickly import your theme's live demo content, widgets and settings. This "
+"will provide you with a basic layout to build your website and speed up the "
+"development process."
+msgstr ""
+
+#: includes/classmirrorgridmain.php:115
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:131
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:140
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:140
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:115
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:115
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:115
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:115
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:115
+#: svn-production/trunk/includes/classmirrorgridmain.php:115
+msgid "The following data will be imported:"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:118
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:134
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:143
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:143
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:118
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:118
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:118
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:118
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:118
+#: svn-production/trunk/includes/classmirrorgridmain.php:118
+msgid "Posts"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:119
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:135
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:144
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:144
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:119
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:119
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:119
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:119
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:119
+#: svn-production/trunk/includes/classmirrorgridmain.php:119
+msgid "Pages"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:120
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:136
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:145
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:145
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:120
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:120
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:120
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:120
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:120
+#: svn-production/trunk/includes/classmirrorgridmain.php:120
+msgid "Images"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:121
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:137
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:146
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:146
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:121
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:121
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:121
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:121
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:121
+#: svn-production/trunk/includes/classmirrorgridmain.php:121
+msgid "Widgets"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:122
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:138
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:147
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:147
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:122
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:122
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:122
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:122
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:122
+#: svn-production/trunk/includes/classmirrorgridmain.php:122
+msgid "Menus"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:123
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:139
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:148
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:148
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:123
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:123
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:123
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:123
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:123
+#: svn-production/trunk/includes/classmirrorgridmain.php:123
+msgid "Settings"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:127
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:142
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:152
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:152
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:127
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:127
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:127
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:127
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:127
+#: svn-production/trunk/includes/classmirrorgridmain.php:127
+msgid "NOTE: Your existing content will NOT be deleted or modified."
+msgstr ""
+
+#: includes/classmirrorgridmain.php:143
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:164
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:168
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:168
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:143
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:143
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:143
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:143
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:143
+#: svn-production/trunk/includes/classmirrorgridmain.php:143
+msgid "Manually upload the demo files"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:147
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:167
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:172
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:172
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:147
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:147
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:147
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:147
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:147
+#: svn-production/trunk/includes/classmirrorgridmain.php:147
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:154
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:172
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:179
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:179
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:154
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:154
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:154
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:154
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:154
+#: svn-production/trunk/includes/classmirrorgridmain.php:154
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:155 includes/classmirrorgridmain.php:162
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:172
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:177
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:180
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:187
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:180
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:187
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:155
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:162
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:155
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:162
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:155
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:162
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:155
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:162
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:155
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:162
+#: svn-production/trunk/includes/classmirrorgridmain.php:155
+#: svn-production/trunk/includes/classmirrorgridmain.php:162
+msgid "(*optional)"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:161
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:177
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:186
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:186
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:161
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:161
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:161
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:161
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:161
+#: svn-production/trunk/includes/classmirrorgridmain.php:161
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:172
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:187
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:197
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:197
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:172
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:172
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:172
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:172
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:172
+#: svn-production/trunk/includes/classmirrorgridmain.php:172
+msgid "Choose which demo you want to import:"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:202 includes/classmirrorgridmain.php:232
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:214
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:214
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:204
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:234
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:204
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:234
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:202
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:232
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:202
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:232
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:202
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:232
+#: svn-production/trunk/includes/classmirrorgridmain.php:202
+#: svn-production/trunk/includes/classmirrorgridmain.php:232
+msgid "Live Preview"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:204
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:216
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:216
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:206
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:206
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:204
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:204
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:204
+#: svn-production/trunk/includes/classmirrorgridmain.php:204
+msgid "By Mirrorgrid"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:230
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:225
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:225
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:232
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:232
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:230
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:230
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:230
+#: svn-production/trunk/includes/classmirrorgridmain.php:230
+msgid "Import Demo"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:263
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:212
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:251
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:251
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:265
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:265
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:263
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:263
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:263
+#: svn-production/trunk/includes/classmirrorgridmain.php:263
+msgid "Import preview:"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:267 includes/classmirrorgridmain.php:320
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:216
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:271
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:255
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:309
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:255
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:309
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:269
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:322
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:269
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:322
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:267
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:320
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:267
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:320
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:267
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:320
+#: svn-production/trunk/includes/classmirrorgridmain.php:267
+#: svn-production/trunk/includes/classmirrorgridmain.php:320
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: includes/classmirrorgridmain.php:291
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:279
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:279
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:293
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:293
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:291
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:291
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:291
+#: svn-production/trunk/includes/classmirrorgridmain.php:291
+msgid ""
+"Click the Import Demo button once and wait. The import process may take few "
+"minutes."
+msgstr ""
+
+#: includes/classmirrorgridmain.php:389
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:328
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:366
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:366
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:391
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:391
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:389
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:389
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:389
+#: svn-production/trunk/includes/classmirrorgridmain.php:389
+msgid "Manually uploaded files"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:405 includes/classmirrorgridmain.php:416
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:345
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:356
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:382
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:393
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:382
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:393
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:407
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:418
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:407
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:418
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:405
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:416
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:405
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:416
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:405
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:416
+#: svn-production/trunk/includes/classmirrorgridmain.php:405
+#: svn-production/trunk/includes/classmirrorgridmain.php:416
+msgid "Downloaded files"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:412
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:352
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:389
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:389
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:414
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:414
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:412
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:412
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:412
+#: svn-production/trunk/includes/classmirrorgridmain.php:412
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:421
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:362
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:398
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:398
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:423
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:423
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:421
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:421
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:421
+#: svn-production/trunk/includes/classmirrorgridmain.php:421
+msgid "No import files specified!"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:468
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:445
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:445
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:470
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:470
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:468
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:468
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:468
+#: svn-production/trunk/includes/classmirrorgridmain.php:468
+msgid ""
+"The demo import has finished. Please check your page and make sure that "
+"everything has imported correctly."
+msgstr ""
+
+#: includes/classmirrorgridmain.php:473
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:450
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:450
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:475
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:475
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:473
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:473
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:473
+#: svn-production/trunk/includes/classmirrorgridmain.php:473
+msgid ""
+"The demo import has finished, but there were some import errors.%s More "
+"details about the errors can be found in this %s %slog file%s %s."
+msgstr ""
+
+#: includes/classmirrorgridmain.php:528
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:474
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:505
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:505
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:530
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:530
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:528
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:528
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:528
+#: svn-production/trunk/includes/classmirrorgridmain.php:528
+msgid "Max execution time after content import = "
+msgstr ""
+
+#: includes/classmirrorgridmain.php:530
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:476
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:507
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:507
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:532
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:532
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:530
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:530
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:530
+#: svn-production/trunk/includes/classmirrorgridmain.php:530
+msgid "Importing content"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:572 includes/classmirrorgridmain.php:584
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:515
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:527
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:549
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:561
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:549
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:561
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:574
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:586
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:574
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:586
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:572
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:584
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:572
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:584
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:572
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:584
+#: svn-production/trunk/includes/classmirrorgridmain.php:572
+#: svn-production/trunk/includes/classmirrorgridmain.php:584
+msgid "Importing widgets"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:609 includes/classmirrorgridmain.php:617
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:549
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:557
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:586
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:594
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:586
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:594
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:611
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:619
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:611
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:619
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:609
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:617
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:609
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:617
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:609
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:617
+#: svn-production/trunk/includes/classmirrorgridmain.php:609
+#: svn-production/trunk/includes/classmirrorgridmain.php:617
+msgid "Importing customizer settings"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:615
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:555
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:592
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:592
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:617
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:617
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:615
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:615
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:615
+#: svn-production/trunk/includes/classmirrorgridmain.php:615
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: includes/classmirrorgridmain.php:672
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:607
+#: svn-production/tags/1.1.0/inc/classmirrorgridmain.php:650
+#: svn-production/tags/1.1.1/inc/classmirrorgridmain.php:650
+#: svn-production/tags/1.2.0/includes/classmirrorgridmain.php:674
+#: svn-production/tags/1.2.1/includes/classmirrorgridmain.php:674
+#: svn-production/tags/1.2.2/includes/classmirrorgridmain.php:672
+#: svn-production/tags/1.2.3/includes/classmirrorgridmain.php:672
+#: svn-production/tags/1.2.4/includes/classmirrorgridmain.php:672
+#: svn-production/trunk/includes/classmirrorgridmain.php:672
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: includes/class-mirrorgrid-demo-importer.php:62
+#: includes/class-mirrorgrid-demo-importer.php:71
+#: svn-production/tags/1.2.0/includes/class-mirrorgrid-demo-importer.php:62
+#: svn-production/tags/1.2.0/includes/class-mirrorgrid-demo-importer.php:71
+#: svn-production/tags/1.2.1/includes/class-mirrorgrid-demo-importer.php:62
+#: svn-production/tags/1.2.1/includes/class-mirrorgrid-demo-importer.php:71
+#: svn-production/tags/1.2.2/includes/class-mirrorgrid-demo-importer.php:62
+#: svn-production/tags/1.2.2/includes/class-mirrorgrid-demo-importer.php:71
+#: svn-production/tags/1.2.3/includes/class-mirrorgrid-demo-importer.php:62
+#: svn-production/tags/1.2.3/includes/class-mirrorgrid-demo-importer.php:71
+#: svn-production/tags/1.2.4/includes/class-mirrorgrid-demo-importer.php:62
+#: svn-production/tags/1.2.4/includes/class-mirrorgrid-demo-importer.php:71
+#: svn-production/trunk/includes/class-mirrorgrid-demo-importer.php:62
+#: svn-production/trunk/includes/class-mirrorgrid-demo-importer.php:71
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-customizer-importer.php:36
+#: svn-production/tags/1.0.0/inc/classmirrorgridcustomizer-importer.php:36
+#: svn-production/tags/1.1.0/inc/classmirrorgridcustomizer-importer.php:36
+#: svn-production/tags/1.1.1/inc/classmirrorgridcustomizer-importer.php:36
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-customizer-importer.php:36
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-customizer-importer.php:36
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-customizer-importer.php:36
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-customizer-importer.php:36
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-customizer-importer.php:36
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-customizer-importer.php:36
+msgid "The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-customizer-importer.php:56
+#: svn-production/tags/1.0.0/inc/classmirrorgridcustomizer-importer.php:56
+#: svn-production/tags/1.1.0/inc/classmirrorgridcustomizer-importer.php:56
+#: svn-production/tags/1.1.1/inc/classmirrorgridcustomizer-importer.php:56
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-customizer-importer.php:56
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-customizer-importer.php:56
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-customizer-importer.php:56
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-customizer-importer.php:56
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-customizer-importer.php:56
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-customizer-importer.php:56
+msgid ""
+"The customizer import file is not in a correct format. Please make sure to "
+"use the correct customizer import file."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-customizer-importer.php:62
+#: svn-production/tags/1.0.0/inc/classmirrorgridcustomizer-importer.php:62
+#: svn-production/tags/1.1.0/inc/classmirrorgridcustomizer-importer.php:62
+#: svn-production/tags/1.1.1/inc/classmirrorgridcustomizer-importer.php:62
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-customizer-importer.php:62
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-customizer-importer.php:62
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-customizer-importer.php:62
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-customizer-importer.php:62
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-customizer-importer.php:62
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-customizer-importer.php:62
+msgid ""
+"The customizer import file is not suitable for current theme. You can only "
+"import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:44
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:44
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:44
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:44
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:44
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:44
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:44
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:44
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:44
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:44
+msgid "Widget import file could not be found."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:76
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:76
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:76
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:76
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:76
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:76
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:76
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:76
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:76
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:116
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:116
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:116
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:116
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:116
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:116
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:116
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:116
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:116
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:116
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:138
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:138
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:138
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:138
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:138
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:138
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:138
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:138
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:138
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:138
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:173
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:173
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:173
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:173
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:173
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:173
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:173
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:173
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:173
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:173
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:231
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:232
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:232
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:231
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:231
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:231
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:231
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:231
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:231
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:231
+msgid "Imported"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:235
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:236
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:236
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:235
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:235
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:235
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:235
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:235
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:235
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:235
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:241
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:242
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:242
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:241
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:241
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:241
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:241
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:241
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:241
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:241
+msgid "No Title"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-widget.php:290
+#: svn-production/tags/1.0.0/inc/classmirrorgridwidget-importer.php:291
+#: svn-production/tags/1.1.0/inc/classmirrorgridwidget-importer.php:291
+#: svn-production/tags/1.1.1/inc/classmirrorgridwidget-importer.php:290
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-widget.php:290
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-widget.php:290
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-widget.php:290
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-widget.php:290
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-widget.php:290
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-widget.php:290
+msgid "No results for widget import!"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:132
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:130
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:130
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:132
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:132
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:132
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:132
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:132
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:132
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:132
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:168
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:284
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:357
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:166
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:282
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:355
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:166
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:282
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:355
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:168
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:284
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:357
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:168
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:284
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:357
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:168
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:284
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:357
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:168
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:284
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:357
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:168
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:284
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:357
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:168
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:284
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:357
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:168
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:284
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:357
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:506
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:504
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:504
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:506
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:506
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:506
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:506
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:506
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:506
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:506
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:566
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:564
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:564
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:566
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:566
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:566
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:566
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:566
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:566
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:566
+msgid "Invalid author mapping"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:668
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:665
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:665
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:668
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:668
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:668
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:668
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:668
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:668
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:668
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:756
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:753
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:753
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:756
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:756
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:756
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:756
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:756
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:756
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:756
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:767
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:763
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:763
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:767
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:767
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:767
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:767
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:767
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:767
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:767
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:845
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:841
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:841
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:845
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:845
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:845
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:845
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:845
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:845
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:845
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:860
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:855
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:855
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:860
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:860
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:860
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:860
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:860
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:860
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:860
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:893
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1722
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:887
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1705
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:887
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1705
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:893
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1722
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:893
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1722
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:893
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1722
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:893
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1722
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:893
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1722
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:893
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1722
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:893
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1722
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:898
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:892
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:892
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:898
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:898
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:898
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:898
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:898
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:898
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:898
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1043
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1036
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1036
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1043
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1043
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1043
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1043
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1043
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1043
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1043
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1531
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1519
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1519
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1531
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1531
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1531
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1531
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1531
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1531
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1531
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1553
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1540
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1540
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1553
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1553
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1553
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1553
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1553
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1553
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1553
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1557
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1544
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1544
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1557
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1557
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1557
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1557
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1557
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1557
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1557
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1697
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1681
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1681
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1697
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1697
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1697
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1697
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1697
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1697
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1697
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1727
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1710
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1710
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1727
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1727
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1727
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1727
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1727
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1727
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1727
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1783
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1763
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1763
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1783
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1783
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1783
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1783
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1783
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1783
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1783
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1797
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1776
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1776
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1797
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1797
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1797
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1797
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1797
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1797
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1797
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1803
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1781
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1781
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1803
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1803
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1803
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1803
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1803
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1803
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1803
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1809
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1787
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1787
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1809
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1809
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1809
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1809
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1809
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1809
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1809
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1832
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1809
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1809
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1832
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1832
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1832
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1832
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1832
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1832
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1832
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1845
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1822
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1822
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1845
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1845
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1845
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1845
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1845
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1845
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1845
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1850
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1827
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1827
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1850
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1850
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1850
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1850
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1850
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1850
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1850
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1864
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1841
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1841
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1864
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1864
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1864
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1864
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1864
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1864
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1864
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1869
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1846
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1846
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1869
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1869
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1869
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1869
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1869
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1869
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1869
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1895
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1872
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1872
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1895
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1895
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1895
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1895
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1895
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1895
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1895
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1906
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1883
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1883
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1906
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1906
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1906
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1906
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1906
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1906
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1906
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1951
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1928
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1928
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1951
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1951
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1951
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1951
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1951
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1951
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1951
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1956
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1933
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1933
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1956
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1956
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1956
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1956
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1956
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1956
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1956
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1978
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1955
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1955
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1978
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1978
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1978
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1978
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1978
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1978
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1978
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1982
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1959
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1959
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1982
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1982
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1982
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1982
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1982
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1982
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1982
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:1996
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1973
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1973
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:1996
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:1996
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:1996
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:1996
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:1996
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:1996
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:1996
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:2000
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1977
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1977
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:2000
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:2000
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:2000
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:2000
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:2000
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:2000
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:2000
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: includes/importer/classmirrorgridimporter-wxr-importer.php:2017
+#: svn-production/tags/1.0.0/inc/importer/class-wxr-importer.php:1994
+#: svn-production/tags/1.1.0/inc/importer/class-wxr-importer.php:1994
+#: svn-production/tags/1.1.1/inc/importer/class-wxr-importer.php:2017
+#: svn-production/tags/1.2.0/includes/importer/classmirrorgridimporter-wxr-importer.php:2017
+#: svn-production/tags/1.2.1/includes/importer/classmirrorgridimporter-wxr-importer.php:2017
+#: svn-production/tags/1.2.2/includes/importer/classmirrorgridimporter-wxr-importer.php:2017
+#: svn-production/tags/1.2.3/includes/importer/classmirrorgridimporter-wxr-importer.php:2017
+#: svn-production/tags/1.2.4/includes/importer/classmirrorgridimporter-wxr-importer.php:2017
+#: svn-production/trunk/includes/importer/classmirrorgridimporter-wxr-importer.php:2017
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:353
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:83
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:106
+msgid "Theme Demo Import"
+msgstr ""
+
+#: svn-production/tags/1.0.0/inc/classmirrorgridhelpers.php:439
+msgid "Theme Demo Import - "
+msgstr ""
+
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:159
+msgid ""
+"There are no predefined import files available in this theme. Please upload "
+"the import files manually!"
+msgstr ""
+
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:239
+msgid "Click the button once and wait. The import process may take several minutes."
+msgstr ""
+
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:243
+msgid "Importing, please wait!"
+msgstr ""
+
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:409
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please "
+"check your page and make sure that everything has imported correctly. If it "
+"did, you can deactivate the %3$sTheme Demo Import%4$s plugin.%5$s"
+msgstr ""
+
+#: svn-production/tags/1.0.0/inc/classmirrorgridmain.php:420
+msgid ""
+"%1$sThe demo import has finished, but there were some import "
+"errors.%2$sMore details about the errors can be found in this %3$s%5$slog "
+"file%6$s%4$s%7$s"
+msgstr ""
+
+#: svn-production/tags/1.0.0/mirrorgrid-demo-importer.php:29
+msgid ""
+"The %2$sTheme Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the "
+"PHP version of your site to at least PHP 5.3.2.%4$s Your current version of "
+"PHP: %2$s%1$s%3$s"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/mirrorgrid-demo-importer/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "ToolKit for Mirrorgrid themes and demo content importer for themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mirrorgrid"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mirrorgrid.com"
+msgstr ""
